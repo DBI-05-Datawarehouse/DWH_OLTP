@@ -1,0 +1,31 @@
+articleNr,name,price,stock,minStock,discontinued
+1,Cake - Mini Potato Pancake,34.47,31,31,false
+2,Thermometer Digital,83.12,99,70,false
+3,Pasta - Fusili Tri - Coloured,78.48,66,6,true
+4,Mussels - Frozen,9.46,30,30,true
+5,"Lamb - Leg, Diced",14.53,13,13,true
+6,Bread - Sour Sticks With Onion,87.95,31,31,true
+7,"Soup - French Onion, Dry",13.8,47,18,false
+8,Chicken - Tenderloin,22.2,37,37,true
+9,"Pork - Bacon, Double Smoked",63.63,4,4,true
+10,Garlic - Peeled,12.04,54,22,false
+11,"Nut - Almond, Blanched, Whole",40.13,3,3,false
+12,Flour - Rye,49.73,70,34,true
+13,Flour - Pastry,81.95,81,51,false
+14,Wine - Guy Sage Touraine,46.63,30,3,false
+15,Coriander - Ground,95.3,36,36,false
+16,Pork - Kidney,30.77,48,6,false
+17,"Beef - Cooked, Corned",89.81,68,45,true
+18,Cut Wakame - Hanawakaba,67.86,17,17,false
+19,Cod - Black Whole Fillet,64.65,15,15,true
+20,Chef Hat 25cm,42.82,12,12,false
+21,Appetizer - Veg Assortment,40.46,5,5,false
+22,Soup - Verve - Chipotle Chicken,50.55,5,5,true
+23,Aspic - Light,1.45,59,37,false
+24,Otomegusa Dashi Konbu,37.34,92,86,true
+25,French Kiss Vanilla,38.37,60,13,false
+26,Energy - Boo - Koo,71.79,53,9,true
+27,Ham - Procutinni,45.26,84,44,true
+28,Wine - Black Tower Qr,81.86,17,17,true
+29,Pie Filling - Apple,19.07,55,43,true
+30,Sauce - Chili,5.54,11,1,true

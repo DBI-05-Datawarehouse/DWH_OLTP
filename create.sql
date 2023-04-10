@@ -15,7 +15,7 @@ create table article
 create table category
 (
     category_nr serial not null,
-    description varchar(255),
+    description TEXT,
     name        varchar(255),
     primary key (category_nr)
 );
@@ -40,7 +40,16 @@ create table firm
     name    varchar(255),
     primary key (firm_nr)
 );
-create table order
+create table order_details
+(
+    discount           float(53) not null,
+    quantity           integer   not null,
+    single_price       float(53) not null,
+    article_article_nr integer   not null,
+    order_order_nr     integer   not null,
+    primary key (article_article_nr, order_order_nr)
+);
+create table orders
 (
     order_nr              serial    not null,
     city                  varchar(255),
@@ -56,15 +65,6 @@ create table order
     shipping_firm_firm_nr integer,
     staff_staff_nr        integer,
     primary key (order_nr)
-);
-create table order_dtl
-(
-    discount           float(53) not null,
-    quantity           integer   not null,
-    single_price       float(53) not null,
-    order_order_nr     integer   not null,
-    article_article_nr integer   not null,
-    primary key (article_article_nr, order_order_nr)
 );
 create table staff
 (
@@ -100,11 +100,17 @@ create table supplier
     zip         varchar(255),
     primary key (supplier_nr)
 );
-
-alter table if exists article add constraint FKfs6yu1y3y14fopep4x4ktyjxf foreign key (category_category_nr) references category;
-alter table if exists article add constraint FK8gpjxiqpfnt638s27fv9ji61n foreign key (supplier_supplier_nr) references supplier;
-alter table if exists order add constraint FKt04r2j9kpqog5ue8uxcrg3t6n foreign key (customer_customer_nr) references customer;
-alter table if exists order add constraint FKddbnqg18y2t6o29p69aa4dio5 foreign key (shipping_firm_firm_nr) references firm;
-alter table if exists order add constraint FK9dlgct4sppn1hema7bd3h3f5y foreign key (staff_staff_nr) references staff;
-alter table if exists order_dtl add constraint FKdh2fur8u2poe45l3u32e1prt0 foreign key (order_order_nr) references order;
-alter table if exists order_dtl add constraint FK8e2dqxwxefav125dg7c4b3r66 foreign key (article_article_nr) references article;
+alter table if exists article
+    add constraint FKfs6yu1y3y14fopep4x4ktyjxf foreign key (category_category_nr) references category;
+alter table if exists article
+    add constraint FK8gpjxiqpfnt638s27fv9ji61n foreign key (supplier_supplier_nr) references supplier;
+alter table if exists order_details
+    add constraint FKm5fxmw610t96ecipn1rr044j6 foreign key (article_article_nr) references article;
+alter table if exists order_details
+    add constraint FKl67robyv1swjiqfbww14fhsmn foreign key (order_order_nr) references orders;
+alter table if exists orders
+    add constraint FKa08cgcau1ymff97wmojvip2wf foreign key (customer_customer_nr) references customer;
+alter table if exists orders
+    add constraint FKskhcwrxcqawr6nnw29hjw4wva foreign key (shipping_firm_firm_nr) references firm;
+alter table if exists orders
+    add constraint FKoi4lnamjpknj72gmhcwbywvly foreign key (staff_staff_nr) references staff;

@@ -1,0 +1,301 @@
+id,firm,street,city,region,zip,country,orderDate,shippingDate,shippingCosts
+1,Eazzy,090 Kings Street,München,Bayern,81543,Germany,14-03-2023,30-09-2022,9.94
+2,Eazzy,86 Merchant Hill,Würzburg,Bayern,97078,Germany,25-11-2022,03-05-2022,5.28
+3,Skyndu,2 Sloan Plaza,München,Bayern,81543,Germany,29-11-2022,26-09-2022,9.28
+4,Jaxnation,506 Nobel Park,München,Bayern,80804,Germany,01-10-2022,28-09-2022,9.51
+5,Vinte,2 Kinsman Way,Nürnberg,Bayern,90411,Germany,06-05-2022,12-10-2022,8.0
+6,Tagfeed,8 Moland Court,Würzburg,Bayern,97078,Germany,21-12-2022,05-07-2022,6.05
+7,Flipbug,4 International Street,Nürnberg,Bayern,90480,Germany,22-03-2023,06-12-2022,5.3
+8,Mynte,86 Merry Terrace,München,Bayern,81679,Germany,19-03-2023,19-11-2022,6.96
+9,Jayo,023 Valley Edge Circle,München,Bayern,81543,Germany,11-08-2022,12-03-2023,5.15
+10,Aivee,6851 Jay Parkway,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,16-04-2022,13-07-2022,7.61
+11,Babbleblab,622 Jackson Drive,München,Bayern,80995,Germany,17-05-2022,01-05-2022,9.9
+12,Meeveo,5 Grasskamp Road,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,07-08-2022,08-04-2023,6.43
+13,Skyba,9 Mcguire Parkway,Augsburg,Bayern,86156,Germany,09-06-2022,20-07-2022,5.85
+14,Brightdog,194 Stuart Drive,Nürnberg,Bayern,90451,Germany,01-02-2023,14-02-2023,7.58
+15,Feedbug,1 Marcy Place,München,Bayern,80686,Germany,06-03-2023,09-06-2022,9.75
+16,Skimia,76485 Monica Street,Zwettl,Niederösterreich,3923,Austria,01-09-2022,07-04-2023,6.98
+17,Kazu,50 American Ash Road,Zwettl,Niederösterreich,3923,Austria,31-03-2023,21-02-2023,7.74
+18,Feedbug,114 Sunnyside Point,München,Bayern,81679,Germany,12-03-2023,30-04-2022,7.54
+19,Topiclounge,7264 Cody Trail,München,Bayern,81373,Germany,24-10-2022,18-03-2023,9.29
+20,Yakitri,5 Nelson Street,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,24-07-2022,18-07-2022,5.3
+21,Oodoo,12437 Hauk Junction,Würzburg,Bayern,97078,Germany,07-04-2023,28-09-2022,9.6
+22,Tagopia,76714 Petterle Court,Augsburg,Bayern,86156,Germany,05-01-2023,21-02-2023,7.9
+23,Divavu,8 Vahlen Way,München,Bayern,80686,Germany,16-12-2022,05-04-2023,5.66
+24,Quimm,60784 Aberg Street,München,Bayern,80804,Germany,25-08-2022,05-10-2022,7.27
+25,Buzzdog,4367 Emmet Place,Nürnberg,Bayern,90411,Germany,26-12-2022,05-02-2023,6.97
+26,Jabbertype,7609 Crowley Place,München,Bayern,81679,Germany,25-05-2022,15-07-2022,5.06
+27,Livetube,232 Elgar Hill,Würzburg,Bayern,97078,Germany,19-08-2022,31-05-2022,7.89
+28,Skipfire,4615 Bowman Terrace,Nürnberg,Bayern,90451,Germany,03-04-2023,21-05-2022,8.22
+29,Realbridge,707 Stoughton Alley,München,Bayern,81679,Germany,06-08-2022,17-09-2022,9.32
+30,Kimia,52 Schurz Crossing,München,Bayern,81373,Germany,10-12-2022,10-05-2022,8.32
+31,Yabox,644 Tomscot Road,Nürnberg,Bayern,90411,Germany,03-02-2023,17-02-2023,7.77
+32,Yambee,69 Sycamore Parkway,Würzburg,Bayern,97078,Germany,02-07-2022,04-12-2022,6.96
+33,Kaymbo,7830 Crest Line Park,München,Bayern,81373,Germany,21-11-2022,16-12-2022,7.28
+34,Riffwire,2993 American Ash Way,München,Bayern,80804,Germany,31-07-2022,28-07-2022,8.94
+35,Flashdog,62 Helena Junction,München,Bayern,81679,Germany,21-08-2022,15-01-2023,7.82
+36,Fivechat,02 Westport Trail,Nürnberg,Bayern,90480,Germany,22-08-2022,02-10-2022,6.94
+37,Oba,23 Brentwood Parkway,Nürnberg,Bayern,90411,Germany,08-03-2023,20-12-2022,7.09
+38,Jaloo,03011 Riverside Junction,Zwettl,Niederösterreich,3923,Austria,05-08-2022,22-07-2022,9.13
+39,Plajo,44 Blue Bill Park Park,München,Bayern,81679,Germany,05-01-2023,28-07-2022,8.79
+40,Tagpad,183 Morningstar Point,Augsburg,Bayern,86156,Germany,26-06-2022,27-03-2023,9.2
+41,Zooxo,01 Hauk Parkway,München,Bayern,81543,Germany,04-10-2022,13-07-2022,9.08
+42,Zoombox,59741 Warbler Point,Augsburg,Bayern,86156,Germany,13-10-2022,04-02-2023,6.72
+43,Shufflebeat,525 Fuller Circle,München,Bayern,80686,Germany,25-06-2022,22-11-2022,6.74
+44,Babbleopia,3324 Mccormick Crossing,Wien,Wien,1200,Austria,27-07-2022,08-05-2022,5.49
+45,Fadeo,1 Fulton Alley,München,Bayern,80804,Germany,19-11-2022,29-10-2022,8.26
+46,Tazz,4926 Rowland Terrace,München,Bayern,81543,Germany,20-08-2022,09-02-2023,7.28
+47,Topicstorm,04 Almo Terrace,München,Bayern,81373,Germany,18-12-2022,20-05-2022,7.17
+48,Dynabox,769 Jay Park,München,Bayern,80337,Germany,21-07-2022,15-03-2023,7.86
+49,Midel,60 Dennis Way,Nürnberg,Bayern,90480,Germany,22-11-2022,13-03-2023,8.69
+50,Dynabox,02 Schlimgen Lane,München,Bayern,81373,Germany,19-09-2022,22-04-2022,9.59
+51,Brainverse,015 Bobwhite Crossing,München,Bayern,80337,Germany,27-08-2022,06-05-2022,7.0
+52,Brainsphere,0894 Sherman Alley,München,Bayern,80337,Germany,24-01-2023,25-11-2022,8.41
+53,Shufflebeat,9221 Morningstar Crossing,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,24-03-2023,08-09-2022,5.18
+54,Kwilith,57688 Schurz Park,München,Bayern,80995,Germany,19-05-2022,17-04-2022,9.04
+55,Skinder,88871 Mendota Drive,Nürnberg,Bayern,90411,Germany,12-06-2022,29-07-2022,5.07
+56,Plambee,942 Sundown Pass,Nürnberg,Bayern,90411,Germany,04-01-2023,06-10-2022,7.58
+57,Photofeed,58 Dakota Lane,Zwettl,Niederösterreich,3923,Austria,09-06-2022,31-10-2022,7.93
+58,Flashspan,67 Eliot Street,München,Bayern,80337,Germany,23-08-2022,12-07-2022,6.2
+59,Gabcube,2 Cherokee Park,München,Bayern,81543,Germany,12-02-2023,20-09-2022,5.51
+60,Jaxworks,345 Anderson Center,München,Bayern,80337,Germany,12-09-2022,05-10-2022,9.59
+61,Riffwire,1 Clemons Way,München,Bayern,80337,Germany,19-10-2022,26-11-2022,7.87
+62,Yombu,15577 Anhalt Place,München,Bayern,80337,Germany,07-11-2022,20-09-2022,8.97
+63,Thoughtbridge,4397 Lindbergh Place,Augsburg,Bayern,86156,Germany,26-09-2022,31-10-2022,5.59
+64,Blogtag,8962 Debra Alley,München,Bayern,80337,Germany,10-04-2022,31-08-2022,6.6
+65,Demimbu,100 Heath Street,München,Bayern,80804,Germany,30-12-2022,09-06-2022,9.31
+66,Topicshots,704 Elka Lane,Nürnberg,Bayern,90411,Germany,20-07-2022,03-08-2022,9.15
+67,Zoonder,2 Warrior Lane,München,Bayern,81679,Germany,03-02-2023,24-01-2023,9.09
+68,Kare,341 Crowley Alley,München,Bayern,80995,Germany,05-05-2022,14-08-2022,6.69
+69,Kamba,25814 Forest Dale Street,Zwettl,Niederösterreich,3923,Austria,16-10-2022,17-04-2022,7.96
+70,Mudo,9494 Thompson Park,München,Bayern,80995,Germany,03-06-2022,28-04-2022,9.94
+71,Realbuzz,043 Monterey Way,Nürnberg,Bayern,90480,Germany,28-06-2022,17-10-2022,9.75
+72,Bubblebox,5 Di Loreto Court,Nürnberg,Bayern,90451,Germany,21-11-2022,27-09-2022,5.89
+73,Photofeed,70702 Saint Paul Alley,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,15-03-2023,02-08-2022,7.42
+74,Babblestorm,22 Menomonie Point,Augsburg,Bayern,86156,Germany,01-04-2023,12-12-2022,9.4
+75,Bluezoom,3522 Doe Crossing Terrace,Augsburg,Bayern,86156,Germany,17-10-2022,07-05-2022,8.78
+76,Thoughtbridge,3 Riverside Circle,Wien,Wien,1200,Austria,11-07-2022,12-01-2023,7.6
+77,Skyvu,05222 Hollow Ridge Alley,Würzburg,Bayern,97078,Germany,10-05-2022,13-05-2022,9.76
+78,Demizz,41399 Forest Terrace,Würzburg,Bayern,97078,Germany,23-02-2023,29-01-2023,7.62
+79,Trilith,6 Arrowood Plaza,Nürnberg,Bayern,90480,Germany,26-01-2023,04-02-2023,6.3
+80,Edgepulse,644 Messerschmidt Terrace,Zwettl,Niederösterreich,3923,Austria,11-09-2022,26-04-2022,5.84
+81,Shuffletag,07 Badeau Alley,München,Bayern,80686,Germany,02-04-2023,10-03-2023,9.71
+82,Yodel,415 West Crossing,München,Bayern,80804,Germany,17-03-2023,24-09-2022,9.28
+83,Flashpoint,4 Manitowish Alley,Nürnberg,Bayern,90411,Germany,23-01-2023,17-05-2022,5.46
+84,Dazzlesphere,7 Bluejay Trail,Nürnberg,Bayern,90480,Germany,06-05-2022,23-03-2023,7.01
+85,Kare,1951 Carpenter Hill,Nürnberg,Bayern,90451,Germany,25-11-2022,23-07-2022,8.72
+86,Jatri,6766 South Avenue,Nürnberg,Bayern,90480,Germany,22-03-2023,13-05-2022,6.12
+87,Yata,0 Victoria Crossing,München,Bayern,81373,Germany,22-11-2022,14-11-2022,8.48
+88,Demizz,76 Shelley Road,Wien,Wien,1200,Austria,03-09-2022,12-06-2022,9.19
+89,Thoughtbeat,99 Bultman Park,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,15-03-2023,14-02-2023,7.24
+90,Cogidoo,873 Raven Plaza,München,Bayern,81543,Germany,17-09-2022,29-01-2023,8.08
+91,Roombo,460 Scoville Circle,München,Bayern,80337,Germany,13-10-2022,26-04-2022,6.88
+92,Dabshots,476 Graceland Junction,München,Bayern,80995,Germany,10-08-2022,18-03-2023,8.28
+93,Muxo,0 Beilfuss Trail,München,Bayern,80995,Germany,14-05-2022,20-09-2022,6.79
+94,Devpoint,3 Dwight Lane,Nürnberg,Bayern,90480,Germany,25-08-2022,29-12-2022,5.45
+95,Brainlounge,93675 Corry Way,Zwettl,Niederösterreich,3923,Austria,22-04-2022,02-05-2022,6.33
+96,Gabtune,4665 Spenser Way,Nürnberg,Bayern,90451,Germany,18-06-2022,06-07-2022,9.08
+97,InnoZ,5452 Old Shore Parkway,Nürnberg,Bayern,90451,Germany,05-01-2023,28-03-2023,5.21
+98,Blogtag,78841 8th Pass,Würzburg,Bayern,97078,Germany,25-09-2022,22-02-2023,5.14
+99,Twitterlist,5171 Karstens Lane,Zwettl,Niederösterreich,3923,Austria,31-05-2022,16-05-2022,5.95
+100,Twimm,6157 Hudson Alley,München,Bayern,81679,Germany,01-09-2022,13-09-2022,5.49
+101,Twitterlist,805 Barby Terrace,Augsburg,Bayern,86156,Germany,14-07-2022,09-05-2022,8.79
+102,Buzzdog,86279 Hooker Road,München,Bayern,80804,Germany,14-04-2022,19-07-2022,9.05
+103,Meetz,15 Arkansas Place,Wien,Wien,1200,Austria,21-11-2022,05-07-2022,7.53
+104,Kazio,97891 Donald Point,München,Bayern,81543,Germany,12-10-2022,12-08-2022,5.54
+105,Wordpedia,147 Doe Crossing Drive,Würzburg,Bayern,97078,Germany,05-12-2022,10-01-2023,9.17
+106,Topdrive,0351 Ohio Crossing,Würzburg,Bayern,97078,Germany,14-04-2022,05-10-2022,8.95
+107,Gabtune,989 Hoard Lane,Wien,Wien,1200,Austria,07-08-2022,07-06-2022,6.14
+108,Ntag,966 Stone Corner Junction,München,Bayern,80995,Germany,27-02-2023,15-05-2022,5.51
+109,Aimbu,2 Dryden Junction,München,Bayern,81373,Germany,27-08-2022,22-12-2022,5.22
+110,Vidoo,1 Shoshone Alley,Nürnberg,Bayern,90411,Germany,09-01-2023,14-08-2022,5.31
+111,Demimbu,47 Eagan Terrace,München,Bayern,81679,Germany,28-10-2022,11-03-2023,7.71
+112,Voonte,9489 Lotheville Circle,München,Bayern,80686,Germany,07-08-2022,04-10-2022,7.2
+113,Feedfish,44 Farwell Parkway,München,Bayern,81543,Germany,27-01-2023,24-05-2022,7.54
+114,Rhybox,58 North Point,München,Bayern,80804,Germany,30-10-2022,19-02-2023,5.38
+115,Zoonoodle,9510 Goodland Parkway,Nürnberg,Bayern,90480,Germany,06-12-2022,17-05-2022,6.8
+116,Bluezoom,9165 Mifflin Parkway,München,Bayern,80337,Germany,30-12-2022,08-04-2023,9.39
+117,Youfeed,93 Chive Hill,München,Bayern,81543,Germany,15-09-2022,28-11-2022,5.52
+118,Twitterworks,20624 Summit Park,Würzburg,Bayern,97078,Germany,14-05-2022,03-05-2022,9.43
+119,Zoomdog,88831 Bunting Terrace,Nürnberg,Bayern,90480,Germany,11-02-2023,06-01-2023,9.73
+120,Browsetype,41598 Lighthouse Bay Terrace,Augsburg,Bayern,86156,Germany,09-07-2022,27-06-2022,6.75
+121,Meezzy,1 High Crossing Hill,München,Bayern,80804,Germany,07-01-2023,21-10-2022,5.49
+122,Bluezoom,4777 Marcy Drive,Nürnberg,Bayern,90411,Germany,07-06-2022,22-03-2023,8.77
+123,Omba,5944 Everett Center,Würzburg,Bayern,97078,Germany,14-01-2023,09-06-2022,5.07
+124,Voonyx,22 Welch Plaza,Nürnberg,Bayern,90451,Germany,06-09-2022,07-06-2022,8.59
+125,Realpoint,1619 Mesta Center,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,04-10-2022,19-12-2022,7.62
+126,Vinte,4 Anderson Parkway,München,Bayern,81679,Germany,06-08-2022,04-10-2022,9.45
+127,Wikido,8 Pawling Drive,Augsburg,Bayern,86156,Germany,11-01-2023,30-05-2022,7.85
+128,Zoomdog,8739 Monterey Hill,Nürnberg,Bayern,90451,Germany,12-01-2023,13-08-2022,7.11
+129,Gabspot,23 Chinook Plaza,Augsburg,Bayern,86156,Germany,21-05-2022,02-05-2022,9.72
+130,Kwilith,2577 Kedzie Plaza,Nürnberg,Bayern,90480,Germany,11-07-2022,21-01-2023,5.34
+131,Dabvine,2673 Packers Drive,München,Bayern,80686,Germany,31-08-2022,16-02-2023,5.2
+132,Quire,5298 Boyd Avenue,München,Bayern,80337,Germany,04-04-2023,20-09-2022,5.95
+133,Linkbuzz,655 Ridge Oak Park,Würzburg,Bayern,97078,Germany,25-06-2022,13-08-2022,9.12
+134,Dabjam,5564 Anniversary Court,München,Bayern,80995,Germany,26-05-2022,27-01-2023,8.8
+135,Riffpedia,8184 Eliot Place,München,Bayern,80995,Germany,10-01-2023,18-03-2023,7.29
+136,Dabshots,59 Trailsway Point,München,Bayern,81373,Germany,05-08-2022,07-06-2022,8.4
+137,Thoughtstorm,70 6th Park,München,Bayern,81543,Germany,29-12-2022,30-10-2022,7.25
+138,Tagopia,127 Anniversary Place,München,Bayern,80337,Germany,07-08-2022,14-05-2022,9.05
+139,Mudo,27 Nova Trail,Wien,Wien,1200,Austria,31-10-2022,27-01-2023,8.8
+140,Oyope,41 West Junction,Wien,Wien,1200,Austria,04-10-2022,10-02-2023,9.29
+141,Browsebug,9 Waywood Place,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,08-07-2022,23-05-2022,5.94
+142,Trudeo,45640 Carey Terrace,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,22-01-2023,21-12-2022,5.83
+143,Tagcat,5729 Dwight Street,Nürnberg,Bayern,90451,Germany,05-08-2022,29-01-2023,6.18
+144,Innojam,82 Express Parkway,Nürnberg,Bayern,90451,Germany,02-11-2022,04-05-2022,9.64
+145,Photolist,896 Emmet Drive,Wien,Wien,1200,Austria,11-07-2022,07-08-2022,8.54
+146,Rhybox,260 Boyd Hill,Zwettl,Niederösterreich,3923,Austria,10-11-2022,30-04-2022,5.53
+147,Edgepulse,6 Cambridge Parkway,München,Bayern,81543,Germany,17-07-2022,30-07-2022,9.17
+148,Jayo,6 Hanover Point,München,Bayern,81543,Germany,16-07-2022,07-04-2023,9.78
+149,Pixoboo,6 Mendota Street,Augsburg,Bayern,86156,Germany,26-02-2023,27-11-2022,8.44
+150,Vinder,583 Armistice Trail,Wien,Wien,1200,Austria,20-10-2022,22-04-2022,6.67
+151,Youspan,77 Vernon Junction,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,16-11-2022,24-12-2022,7.84
+152,Eare,90 Sloan Street,Würzburg,Bayern,97078,Germany,23-07-2022,11-06-2022,8.87
+153,Flashdog,71 Jay Street,München,Bayern,80804,Germany,14-08-2022,07-12-2022,8.67
+154,Minyx,9641 Waywood Road,München,Bayern,81543,Germany,29-12-2022,13-01-2023,7.78
+155,Brainsphere,023 Memorial Crossing,München,Bayern,80995,Germany,26-07-2022,18-09-2022,5.45
+156,Blogtags,34 Beilfuss Alley,Nürnberg,Bayern,90480,Germany,01-12-2022,29-06-2022,8.49
+157,Ooba,50 Westport Terrace,Zwettl,Niederösterreich,3923,Austria,18-09-2022,11-09-2022,5.59
+158,Tagchat,2038 Pankratz Point,Nürnberg,Bayern,90451,Germany,27-04-2022,20-11-2022,5.47
+159,Rooxo,14004 Lindbergh Parkway,München,Bayern,80686,Germany,19-05-2022,05-04-2023,6.54
+160,Avaveo,79940 Milwaukee Center,München,Bayern,80804,Germany,07-10-2022,01-05-2022,6.54
+161,Fatz,7 Old Gate Center,München,Bayern,80804,Germany,10-08-2022,27-06-2022,8.0
+162,Eadel,7 Briar Crest Lane,Nürnberg,Bayern,90411,Germany,25-02-2023,22-06-2022,7.67
+163,Tagpad,62 Linden Street,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,07-02-2023,27-04-2022,7.64
+164,Kazu,596 Vernon Court,München,Bayern,81543,Germany,16-01-2023,19-11-2022,6.64
+165,Meedoo,28066 Pepper Wood Drive,München,Bayern,80686,Germany,15-10-2022,16-01-2023,9.67
+166,Browsetype,4984 Vahlen Way,München,Bayern,80995,Germany,16-04-2022,23-01-2023,5.23
+167,Vitz,46647 Bunting Lane,München,Bayern,81373,Germany,27-06-2022,28-06-2022,9.12
+168,Oozz,1800 Twin Pines Circle,Zwettl,Niederösterreich,3923,Austria,19-06-2022,10-07-2022,5.44
+169,Skaboo,9442 8th Road,Nürnberg,Bayern,90411,Germany,20-02-2023,09-05-2022,5.8
+170,Thoughtstorm,8 Laurel Parkway,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,05-09-2022,22-02-2023,9.55
+171,Skaboo,9 Dahle Trail,Augsburg,Bayern,86156,Germany,08-09-2022,16-05-2022,7.45
+172,Zooveo,6 Crownhardt Avenue,München,Bayern,80686,Germany,29-11-2022,06-03-2023,7.53
+173,Rhycero,9 Buell Road,Zwettl,Niederösterreich,3923,Austria,12-05-2022,06-06-2022,9.03
+174,Eayo,30 Pennsylvania Plaza,Augsburg,Bayern,86156,Germany,02-08-2022,16-11-2022,6.76
+175,Zoozzy,18207 International Terrace,Würzburg,Bayern,97078,Germany,17-11-2022,04-12-2022,9.8
+176,Quatz,16 8th Trail,Nürnberg,Bayern,90411,Germany,08-03-2023,08-08-2022,8.56
+177,Demivee,8 Westport Court,Augsburg,Bayern,86156,Germany,21-09-2022,06-09-2022,8.79
+178,Kazio,0 Merrick Circle,Nürnberg,Bayern,90480,Germany,27-09-2022,15-11-2022,8.74
+179,Feedmix,619 Old Gate Place,Nürnberg,Bayern,90451,Germany,23-07-2022,07-10-2022,7.84
+180,Yodel,7 Elgar Park,München,Bayern,80804,Germany,30-08-2022,01-04-2023,6.57
+181,Buzzbean,60913 Holmberg Alley,München,Bayern,81679,Germany,19-11-2022,21-02-2023,9.5
+182,Voonder,89206 Heath Avenue,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,05-11-2022,21-08-2022,5.31
+183,Thoughtbeat,174 John Wall Parkway,Nürnberg,Bayern,90411,Germany,09-07-2022,29-10-2022,7.35
+184,Twimm,01710 Golf View Alley,Wien,Wien,1200,Austria,08-04-2023,17-10-2022,5.29
+185,Ntag,75950 Cody Road,Augsburg,Bayern,86156,Germany,25-12-2022,31-01-2023,5.39
+186,Dazzlesphere,72626 Lunder Point,München,Bayern,80337,Germany,13-09-2022,05-01-2023,8.28
+187,Minyx,9 Rowland Park,München,Bayern,80337,Germany,02-04-2023,28-01-2023,6.51
+188,Babbleset,4 Old Gate Lane,München,Bayern,81543,Germany,31-07-2022,22-10-2022,6.04
+189,Buzzbean,142 Canary Circle,Zwettl,Niederösterreich,3923,Austria,22-04-2022,20-07-2022,7.71
+190,Voonix,976 Grasskamp Park,Wien,Wien,1200,Austria,20-11-2022,16-07-2022,9.78
+191,Vidoo,33 Carberry Park,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,11-03-2023,27-07-2022,8.27
+192,Yakidoo,82 Dorton Road,München,Bayern,81373,Germany,18-12-2022,25-01-2023,9.02
+193,JumpXS,4 Trailsway Court,Wien,Wien,1200,Austria,04-02-2023,24-10-2022,5.76
+194,Youbridge,0 Coolidge Trail,Würzburg,Bayern,97078,Germany,04-09-2022,22-08-2022,9.6
+195,Demivee,10 Elmside Avenue,Nürnberg,Bayern,90480,Germany,13-02-2023,11-02-2023,6.8
+196,Voonte,09843 Emmet Place,Zwettl,Niederösterreich,3923,Austria,10-04-2022,07-03-2023,6.99
+197,Flipopia,66543 Twin Pines Place,München,Bayern,81373,Germany,31-10-2022,19-02-2023,8.41
+198,Brightdog,6 Fuller Circle,Wien,Wien,1200,Austria,09-01-2023,11-03-2023,9.53
+199,Bubblebox,999 Hooker Junction,Nürnberg,Bayern,90451,Germany,24-11-2022,02-06-2022,8.15
+200,Shuffledrive,516 Ilene Place,München,Bayern,80686,Germany,12-09-2022,04-06-2022,6.78
+201,Wordtune,7 Atwood Avenue,Nürnberg,Bayern,90480,Germany,03-04-2023,24-05-2022,7.41
+202,Yakitri,1 Hermina Lane,München,Bayern,81679,Germany,28-02-2023,29-03-2023,6.83
+203,Gabcube,012 Monterey Terrace,München,Bayern,81679,Germany,12-07-2022,19-01-2023,6.81
+204,Flashset,11 Di Loreto Point,Augsburg,Bayern,86156,Germany,22-11-2022,14-11-2022,5.21
+205,Dynava,88926 Helena Terrace,Nürnberg,Bayern,90451,Germany,04-07-2022,28-07-2022,6.95
+206,Yakidoo,0140 Crest Line Junction,München,Bayern,80804,Germany,22-03-2023,19-09-2022,8.91
+207,Thoughtsphere,07925 Mifflin Center,München,Bayern,80337,Germany,29-07-2022,06-04-2023,5.48
+208,Plambee,2839 Cardinal Circle,München,Bayern,80337,Germany,27-06-2022,27-09-2022,7.31
+209,Feedmix,6 Lillian Road,München,Bayern,81373,Germany,06-08-2022,25-09-2022,5.13
+210,Tagfeed,13188 Pankratz Lane,Würzburg,Bayern,97078,Germany,07-03-2023,09-07-2022,5.4
+211,Wordpedia,3 Roth Lane,Zwettl,Niederösterreich,3923,Austria,06-02-2023,16-02-2023,6.65
+212,Riffpedia,834 Clove Alley,München,Bayern,80995,Germany,25-06-2022,14-06-2022,8.03
+213,Skiba,37090 Scoville Terrace,Zwettl,Niederösterreich,3923,Austria,22-12-2022,13-02-2023,7.6
+214,Innojam,2792 Homewood Parkway,München,Bayern,81679,Germany,19-01-2023,17-04-2022,6.12
+215,Dynabox,69851 Kenwood Terrace,München,Bayern,81373,Germany,07-10-2022,12-07-2022,5.69
+216,Abata,0 Union Terrace,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,17-12-2022,03-02-2023,8.49
+217,Yamia,743 Talisman Alley,München,Bayern,80686,Germany,03-06-2022,18-02-2023,6.23
+218,Wikido,2 5th Lane,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,20-07-2022,24-06-2022,9.44
+219,Aivee,12 Mandrake Pass,München,Bayern,81373,Germany,17-05-2022,30-09-2022,7.58
+220,Meevee,20225 Golf Course Pass,Nürnberg,Bayern,90411,Germany,18-05-2022,11-05-2022,6.42
+221,Reallinks,96 7th Point,Zwettl,Niederösterreich,3923,Austria,01-06-2022,05-07-2022,8.27
+222,Agivu,6777 Hauk Drive,Nürnberg,Bayern,90480,Germany,25-09-2022,26-09-2022,9.65
+223,Brainverse,37 Evergreen Street,München,Bayern,80686,Germany,25-09-2022,07-09-2022,8.61
+224,Eamia,50330 Dixon Alley,München,Bayern,80686,Germany,04-04-2023,11-05-2022,5.77
+225,Blogtag,66 Lyons Parkway,München,Bayern,81543,Germany,10-07-2022,15-03-2023,6.58
+226,Jaxworks,38162 Elmside Place,München,Bayern,80995,Germany,15-02-2023,23-03-2023,7.25
+227,Yodel,63 Nevada Park,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,19-04-2022,22-02-2023,9.37
+228,Thoughtblab,836 Randy Pass,München,Bayern,81373,Germany,15-09-2022,11-05-2022,7.35
+229,Thoughtblab,5314 Wayridge Plaza,München,Bayern,80995,Germany,19-02-2023,04-10-2022,8.15
+230,Photobean,1 Derek Plaza,Nürnberg,Bayern,90451,Germany,14-05-2022,01-11-2022,8.91
+231,Skyble,1757 Briar Crest Trail,Nürnberg,Bayern,90451,Germany,21-04-2022,01-01-2023,9.04
+232,Browsecat,9579 Northview Avenue,Augsburg,Bayern,86156,Germany,10-06-2022,19-08-2022,6.6
+233,Fivebridge,8 Green Point,München,Bayern,80995,Germany,04-07-2022,23-11-2022,6.3
+234,Skyba,186 Scofield Street,München,Bayern,80804,Germany,14-01-2023,08-01-2023,8.56
+235,Rooxo,36 Hanover Court,Nürnberg,Bayern,90451,Germany,12-08-2022,11-01-2023,5.41
+236,Eamia,27 Melrose Terrace,München,Bayern,80804,Germany,09-12-2022,15-06-2022,6.42
+237,Fiveclub,52043 Ilene Street,Augsburg,Bayern,86156,Germany,11-06-2022,02-01-2023,5.59
+238,Yambee,7911 Meadow Vale Pass,Nürnberg,Bayern,90451,Germany,19-08-2022,14-11-2022,6.52
+239,Linktype,2502 Lakewood Gardens Hill,München,Bayern,81373,Germany,09-11-2022,08-09-2022,6.11
+240,Ainyx,91962 Old Shore Crossing,München,Bayern,80337,Germany,08-02-2023,16-01-2023,7.19
+241,Skiptube,6784 Crowley Avenue,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,31-10-2022,06-04-2023,5.93
+242,Trudeo,45232 Victoria Avenue,Augsburg,Bayern,86156,Germany,27-11-2022,19-08-2022,5.65
+243,Aimbo,39 Bultman Drive,Augsburg,Bayern,86156,Germany,15-01-2023,15-06-2022,8.84
+244,Yata,28028 Steensland Hill,München,Bayern,81543,Germany,12-08-2022,31-10-2022,6.23
+245,Kwimbee,14417 Rigney Terrace,Augsburg,Bayern,86156,Germany,09-08-2022,28-01-2023,8.69
+246,Cogibox,3091 Shoshone Circle,München,Bayern,80337,Germany,27-01-2023,15-10-2022,6.13
+247,Skinix,73264 Crownhardt Place,Wien,Wien,1200,Austria,28-01-2023,20-03-2023,8.95
+248,Innotype,15862 Vahlen Trail,München,Bayern,80995,Germany,13-05-2022,06-08-2022,6.41
+249,Tazz,55264 Marcy Crossing,Nürnberg,Bayern,90451,Germany,03-03-2023,23-09-2022,9.36
+250,Jabbersphere,8 Rowland Point,Würzburg,Bayern,97078,Germany,04-05-2022,02-07-2022,5.28
+251,Minyx,2509 Killdeer Park,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,15-04-2022,02-10-2022,7.25
+252,Cogidoo,59390 Grayhawk Pass,München,Bayern,80337,Germany,04-10-2022,08-06-2022,9.46
+253,Flashspan,38994 Granby Court,München,Bayern,81679,Germany,07-12-2022,20-06-2022,8.53
+254,Jayo,2479 Barnett Way,Nürnberg,Bayern,90480,Germany,06-06-2022,14-02-2023,7.44
+255,Oyondu,184 Oak Hill,München,Bayern,80686,Germany,24-05-2022,06-09-2022,5.63
+256,Babbleset,23885 Debra Point,Nürnberg,Bayern,90411,Germany,23-01-2023,01-02-2023,8.77
+257,Linkbuzz,26 Sunbrook Lane,Zwettl,Niederösterreich,3923,Austria,14-03-2023,06-03-2023,5.13
+258,Wordware,5037 Thompson Hill,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,21-01-2023,01-06-2022,8.79
+259,Skilith,91232 Lighthouse Bay Street,München,Bayern,81679,Germany,08-03-2023,16-12-2022,6.02
+260,Kwideo,15 Macpherson Parkway,Nürnberg,Bayern,90451,Germany,09-07-2022,05-07-2022,8.33
+261,Wordpedia,3 Marcy Road,München,Bayern,81373,Germany,01-01-2023,13-06-2022,6.24
+262,Zoomcast,451 Briar Crest Park,Wien,Wien,1200,Austria,09-07-2022,21-04-2022,8.2
+263,Skyba,09 Forest Run Road,Würzburg,Bayern,97078,Germany,14-10-2022,26-06-2022,9.74
+264,Agivu,93291 Alpine Court,München,Bayern,80804,Germany,17-02-2023,29-03-2023,8.14
+265,Ozu,5 Fieldstone Park,München,Bayern,80337,Germany,09-09-2022,07-07-2022,8.81
+266,Wikido,64601 Buell Road,Nürnberg,Bayern,90480,Germany,14-04-2022,20-05-2022,5.81
+267,Jabbertype,33 Fisk Pass,München,Bayern,80995,Germany,24-01-2023,12-05-2022,9.7
+268,Zooxo,6244 Hermina Pass,Würzburg,Bayern,97078,Germany,29-09-2022,26-05-2022,7.68
+269,Rhycero,4 Paget Pass,Nürnberg,Bayern,90411,Germany,26-12-2022,13-03-2023,9.35
+270,Skipfire,699 Lakewood Court,München,Bayern,81373,Germany,31-03-2023,07-02-2023,9.83
+271,Zoomcast,84557 Hagan Point,Zwettl,Niederösterreich,3923,Austria,29-03-2023,22-11-2022,7.73
+272,Jayo,1025 Old Shore Hill,München,Bayern,81543,Germany,04-05-2022,18-07-2022,7.35
+273,Eayo,265 Dryden Center,Augsburg,Bayern,86156,Germany,23-12-2022,30-05-2022,8.21
+274,Thoughtblab,3 Bluejay Place,Wien,Wien,1200,Austria,20-12-2022,16-11-2022,5.18
+275,Jabbertype,90 Reindahl Lane,Nürnberg,Bayern,90411,Germany,29-08-2022,10-02-2023,8.98
+276,Izio,48 Service Center,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,17-03-2023,08-01-2023,8.23
+277,Yadel,209 Granby Alley,München,Bayern,80804,Germany,20-08-2022,28-09-2022,8.82
+278,Vidoo,424 Commercial Street,München,Bayern,80804,Germany,29-07-2022,29-09-2022,8.05
+279,Feedmix,4 Eagle Crest Street,Wien,Wien,1200,Austria,05-04-2023,12-03-2023,6.71
+280,Bluejam,0 Grover Point,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,23-05-2022,03-06-2022,8.05
+281,Gigabox,01 Atwood Hill,München,Bayern,81543,Germany,18-12-2022,26-05-2022,5.4
+282,Oyoba,74 Pennsylvania Trail,München,Bayern,80804,Germany,22-08-2022,12-01-2023,9.38
+283,Gigaclub,588 Sheridan Street,Nürnberg,Bayern,90480,Germany,13-07-2022,08-03-2023,7.61
+284,Dynava,36738 Mallory Terrace,München,Bayern,81373,Germany,02-02-2023,14-07-2022,9.7
+285,Skynoodle,31 Kings Parkway,München,Bayern,81373,Germany,12-12-2022,11-05-2022,8.32
+286,Snaptags,8 Macpherson Junction,München,Bayern,80804,Germany,28-09-2022,17-11-2022,5.37
+287,Livepath,84617 Myrtle Road,St. Anton an der Jeßnitz,Niederösterreich,3282,Austria,29-06-2022,10-06-2022,8.27
+288,Bluezoom,2 Sage Pass,München,Bayern,81543,Germany,29-11-2022,20-02-2023,5.15
+289,Flashpoint,746 Browning Pass,München,Bayern,80804,Germany,16-06-2022,23-08-2022,5.87
+290,Yakitri,41502 Lukken Junction,Würzburg,Bayern,97078,Germany,09-07-2022,06-02-2023,5.66
+291,Voonte,775 Paget Street,München,Bayern,80337,Germany,20-07-2022,31-05-2022,8.33
+292,Skippad,12651 Petterle Circle,Augsburg,Bayern,86156,Germany,24-10-2022,15-01-2023,6.78
+293,Twinder,39 Scott Point,Nürnberg,Bayern,90480,Germany,14-03-2023,11-01-2023,5.67
+294,Jazzy,085 Bobwhite Center,München,Bayern,80804,Germany,13-12-2022,20-05-2022,6.66
+295,Flipbug,89341 Browning Point,Würzburg,Bayern,97078,Germany,26-07-2022,28-10-2022,8.4
+296,Centidel,60853 Sage Court,München,Bayern,80337,Germany,07-09-2022,28-01-2023,7.7
+297,Oyoba,9210 Reindahl Drive,Nürnberg,Bayern,90451,Germany,06-07-2022,24-07-2022,8.49
+298,Tagopia,3087 Forster Road,München,Bayern,80995,Germany,05-06-2022,29-12-2022,7.52
+299,Twitterbeat,8 Pankratz Hill,Nürnberg,Bayern,90451,Germany,16-02-2023,17-06-2022,7.53
+300,Edgeblab,96094 Westridge Pass,München,Bayern,80686,Germany,01-11-2022,19-01-2023,6.21
