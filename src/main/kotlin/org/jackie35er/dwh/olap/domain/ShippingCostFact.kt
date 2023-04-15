@@ -19,5 +19,21 @@ data class ShippingCostFact(
     val shippingFirmDim: ShippingFirmDim,
 
     @ManyToOne
-    val timeDim: TimeDim
+    val timeDim: TimeDim,
+
+    val shippingCost: Double,
+) {
+    fun getShippingCostKey(): ShippingCostKey {
+        return ShippingCostKey(
+            shippingFirmDim.id,
+            staffDim.id,
+            timeDim.id,
+        )
+    }
+}
+
+data class ShippingCostKey(
+    val shippingFirmDim: Int,
+    val staffDim: Int,
+    val timeDim: Int,
 )

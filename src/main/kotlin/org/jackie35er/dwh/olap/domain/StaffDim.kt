@@ -11,9 +11,9 @@ data class StaffDim(
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private val id: Int,
+    val id: Int,
 
-    private val lastname: String,
-    private val firstname: String,
-    private val position: String,
+    val lastname: String,
+    val firstname: String,
+    val position: String,
 )

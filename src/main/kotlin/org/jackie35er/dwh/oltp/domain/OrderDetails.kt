@@ -43,12 +43,11 @@ data class OrderDetails(
                 && article == other.article
     }
 
-    override fun hashCode(): Int = Objects.hash(order, article);
+    override fun hashCode(): Int = Objects.hash(order, article)
 
     @Override
     override fun toString(): String {
         return this::class.simpleName + "(order = $order , article = $article )"
     }
-
 }
 

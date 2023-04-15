@@ -10,7 +10,8 @@ data class ArticleDim(
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     val id: Int,
-    val article_nr: Int,
+    val articleNr: Int,
+    val name:String,
     val supplierNr: Int,
     val firm: String,
     val city: String,

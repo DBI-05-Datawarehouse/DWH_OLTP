@@ -28,5 +28,19 @@ data class TurnoverFact(
     @ManyToOne
     val timeDim: TimeDim,
 
-    val turnover: Double,
+    var turnover: Double,
+) {
+    fun getTurnoverKey(): TurnoverKey {
+        return TurnoverKey(
+            articleDim.id,
+            customerDim.id,
+            timeDim.id,
+        )
+    }
+}
+
+data class TurnoverKey(
+    val articleDim: Int,
+    val customerDim: Int,
+    val timeDim: Int,
 )
